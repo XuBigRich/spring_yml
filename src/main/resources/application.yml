@@ -1,0 +1,2 @@
+spring:
+  contextConfigLocation: classpath*:spring/applicationContext.xml
